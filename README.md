@@ -3,13 +3,13 @@ Java mail client and mail server for embedded devices (BeagleBone)
 
 Client<br>
 Gestion de la priorité des mails et des pièces jointes.<br>
-Sauvegarde des brouillons et mise en corbeille avant suppression.
-Récupération automatique des nouveaux mails (push).
+Sauvegarde des brouillons et mise en corbeille avant suppression.<br>
+Récupération automatique des nouveaux mails (push).<br>
 
-Serveur
-Serveur mail optimisé pour utilisation sur systèmes embarqués.
-Le serveur peut néamoins fonctionner sur toutes plateformes.
-Clignotement de leds variables en fonctions des mails reçuent et de leurs priorités sur BeagleBone Black.
+Serveur<br>
+Serveur mail optimisé pour utilisation sur systèmes embarqués.<br>
+Le serveur peut néamoins fonctionner sur toutes plateformes.<br>
+Clignotement de leds variables en fonctions des mails reçuent et de leurs priorités sur BeagleBone Black.<br>
 
 Stockage par système de fichiers (pas de SGBD)
 
