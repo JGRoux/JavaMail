@@ -1,8 +1,8 @@
 # JavaMail
 Java mail client and mail server for embedded devices (BeagleBone)
 
-Client
-Gestion de la priorité des mails et des pièces jointes.
+Client<br>
+Gestion de la priorité des mails et des pièces jointes.<br>
 Sauvegarde des brouillons et mise en corbeille avant suppression.
 Récupération automatique des nouveaux mails (push).
 
